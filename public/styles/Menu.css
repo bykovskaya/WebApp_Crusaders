@@ -1,0 +1,43 @@
+.menu{
+    background-color: chocolate;    
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.menu-left{
+    width: 50%;
+    right:0;
+}
+.menu-right{
+    width: 50%;
+    
+}
+li{
+    float: left;
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(63, 39, 17);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.rightest-link{
+    position: fixed;
+    right: 0;   
+}
+body{
+    width: 100%;
+    margin:0;
+}
+#form{
+    margin-top: 45px;
+}
+#content{
+    margin-top: 38px;
+}

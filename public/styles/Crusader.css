@@ -1,0 +1,35 @@
+
+
+.crusader-css{
+    margin-left: 20%;
+    width: 60%;
+    display: flex;
+    
+}
+
+.avatat{
+    width: 20%;
+    border: 3px solid cornsilk;
+}
+
+img{
+    width: 160px;
+    height: 160px;
+}
+.crusaders-info{
+    width: 80%;
+    padding-left: 10%;
+    margin-top: 10px;
+}
+
+.FIO{
+    text-size-adjust: 18px;
+}
+.delete-button{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(209, 50, 50);
+    padding: 0px;
+    float: right;
+}
